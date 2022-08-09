@@ -34,6 +34,9 @@ Follow the process described in the course to `eb init` a new application and `e
 ### Elastic Beanstalk URL
 http://imagefilter-project-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/BCD7/production/_126234384_gettyimages-1242371765.jpg
 
+### GitHub repo URL
+https://github.com/Dirisu/imageFilter-Udagram
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
